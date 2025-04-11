@@ -35,12 +35,3 @@ A simple ASP.NET Core Web API that provides full CRUD operations on a MongoDB co
 
 ---
 
-## 🧾 Example Product Model
-
-```json
-{
-  "ProductId": "605c72ef2f4b2b39a4dfb123",
-  "Name": "Laptop",
-  "Category": "Electronics",
-  "Price": 999.99
-}
